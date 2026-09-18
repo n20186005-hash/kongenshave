@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "title": "Kongens Have København – Gratis kongelig have, åbningstider & besøgsguide",
+    "description": "Planlæg dit besøg i Kongens Have i København – Danmarks ældste kongelige have. Gratis adgang, åbningstider (6:00–22:00), transport, tips til Rosenborg Slot, picnicpladser & fotos."
+  },
+  "header": {
+    "home": "Forside",
+    "gallery": "Galleri",
+    "reviews": "Anmeldelser",
+    "map": "Kort",
+    "picnic": "Picnicpladser",
+    "thingsToDo": "Aktiviteter",
+    "backToHome": "Tilbage til forsiden"
+  },
+  "hero": {
+    "title": "Kongens Have",
+    "subtitle": "Københavns ældste kongelige have & H.C. Andersens eventyrverden",
+    "rating": "4,6(13.430)",
+    "reviewCount": "13.430 anmeldelser",
+    "hours": "6:00–22:00",
+    "openMaps": "Se placering"
+  },
+  "intro": {
+    "title": "Opdag Kongens Have",
+    "description": "Ærligt talt: Første gang du træder ind i Kongens Have, føler du måske, at du er trådt ind i et H.C. Andersen-eventyr. Jeg ankom en majmorgen, luften fyldt med duften af friskklippet græs og mild rosenduft. Sollys filtrede sig gennem lindegrenene og kastede flagrende skygger på jorden, og de kubiske hækker stod som grønne byggeklodser pænt langs alléen.\n\nGår du ned ad lindealléen, kan du se Rosenborg Slots kobbergrønne spir glimte i solen langt væk. Graven er krystalklar, flere hvide svaner svømmer stille og dykker indimellem hovedet i fjerene. Plænerne er allerede i gang: Folk breder ternede tæpper ud til picnic, andre ligger i solen, og nogle få børn jagter sommerfugle, deres latter så klar som vindspil.\n\nDet der rører mig mest ved Kongens Have er dens uanstrengte varme. Der er ingen strenge vagter, ingen dyre billetter. Du kan blot sidde på en bænk, se skyerne drive forbi og lytte til vinden ruske i bladene.",
+    "visitGuide": {
+      "title": "Besøgstips",
+      "items": [
+        "Besøg før kl. 9 om morgenen eller efter kl. 16 for at undgå rundvisninger",
+        "Kongens Have er gratis; Rosenborg Slot kræver entré",
+        "Roserne blomstrer om sommeren; juni–august er den bedste periode",
+        "Tag din egen mad med til en afslappet picnic på plænen"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Højdepunkter",
+      "items": [
+        "Danmarks ældste kongelige have med 400 års historie",
+        "Rosenborg Slot & Kongens Skatkammer",
+        "Nordisk renæssance-landskabsmesterværk",
+        "H.C. Andersens eventyrinspiration"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Kongens Haves fortryllelse",
+    "sections": [
+      {
+        "id": "history",
+        "title": "400 år kongelig historie",
+        "content": "Denne have fyldt med latter i dag har over 400 års kongelig historie. I 1606 beordrede den ambitiøse danske konge Christian 4. den anlagt. Oprindeligt var det kun et kongeligt jagtområde og køkkenhave, der forsynede slottet med friske varer. I 1634 blev Rosenborg Slot bygget midt i haven, hvilket gjorde den til sommerresidens, kun tilgængelig for adelen og kongefamilien.\n\nSidst i 1700-tallet, med udbredelsen af demokratiske idéer, åbnede Kongens Have for offentligheden og blev Københavns første offentlige park. I 1800-tallet gennemgik haven store renoveringer, hvor der kom rosarium, skulpturer og alléer, hvilket dannede det layout, vi ser i dag."
+      },
+      {
+        "id": "architecture",
+        "title": "Arkitektur & haveudformning",
+        "content": "Baseret på geometrisk symmetrisk baroklayout, blandet med den vilde charme fra engelske naturhaver. Kendetegn inkluderer kubiske lindehækker, slyngede grave, sæsonbetonede blomsterbede og det centrale Rosenborg Slot. Kombinerer nordisk renæssance og barok have-stil, med senere romantiske tilføjelser. Rene, elegante linjer og naturlig farveharmoni.\n\nHaven huser talrige skulpturer fra 1800-tallet, og rosariet har over 100 rosenarter, der blomstrer om sommeren og skaber en eventyragtig atmosfære."
+      },
+      {
+        "id": "culture",
+        "title": "Kulturel betydning",
+        "content": "Forvandlet fra et eksklusivt kongeligt jagtområde og køkkenhave til et fælles offentligt rum, inspirerede den forfattere som H.C. Andersen, der ofte gik her og skrev mange eventyr. I dag er den hjertet af københavnernes dagligliv med picnic, gåture, koncerter og kulturelle arrangementer, og den inkarnerer Danmarks „hygge“-filosofi.\n\nOm foråret blomstrer kirsebærstræerne og forvandler haven til et lyserødt hav; om sommeren blomstrer roserne og fylder luften med duft; om efteråret farves bladene gyldne og dækker stierne; om vinteren dækker sneen alt og skaber et iskoldt eventyr."
+      },
+      {
+        "id": "rosenborg",
+        "title": "Rosenborg Slot",
+        "content": "Rosenborg Slot er den mest iøjnefaldende bygning midt i haven, bygget i 1634 som sommerpalads for den danske konge Christian 4. I dag huser slottet de danske kronjuveler, det berømte ravkammer og portrætter af afdøde monarker.\n\nRosenborg Slot er åbent 10:00–17:00 (lukket mandag, åbent mandag juni–aug). Entré: 140 DKK voksne, 70 DKK studerende, gratis under 17. Vi anbefaler 1–2 timer til dit besøg."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundlæggende information",
+    "officialName": "Officielt navn",
+    "officialNameValue": "Kongens Have",
+    "type": "Attraktionstype",
+    "typeValue": "Kongelig have, historisk park, byens rekreative område",
+    "country": "Land",
+    "countryValue": "Danmark",
+    "city": "By",
+    "cityValue": "København",
+    "googleRating": "Google-vurdering",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "addressValue": "Øster Voldgade 4A, 1307 København, Danmark"
+  },
+  "hours": {
+    "title": "Åbningstider",
+    "summer": "Sommer (1. apr – 30. sep)",
+    "summerTime": "6:00–22:00",
+    "winter": "Vinter (1. okt – 31. mar)",
+    "winterTime": "7:00–20:00",
+    "christmas": "Jul (24.–25. dec)",
+    "christmasTime": "10:00–18:00",
+    "rosenborg": "Rosenborg Slot",
+    "rosenborgTime": "10:00–17:00 (lukket mandag, åbent mandag juni–aug)",
+    "tip": "Besøg før kl. 9 eller efter kl. 16 for blødt lys og færre mennesker"
+  },
+  "tickets": {
+    "title": "Billetpriser",
+    "garden": "Kongens Have",
+    "gardenPrice": "Gratis adgang, ingen billet nødvendig",
+    "rosenborg": "Rosenborg Slot (inkl. Kongens Skatkammer)",
+    "adults": "Voksne",
+    "adultsPrice": "140 DKK",
+    "students": "Studerende",
+    "studentsPrice": "70 DKK",
+    "under17": "Under 17",
+    "under17Price": "Gratis",
+    "card": "Copenhagen Card",
+    "cardPrice": "~399 DKK/24 timer, inkluderer gratis adgang til Rosenborg Slot og offentlig transport"
+  },
+  "transport": {
+    "title": "Sådan kommer du hertil",
+    "metro": "Metro (stærkt anbefalet)",
+    "metroDesc": "Tag metro linje M2 fra Terminal 3 (T3) i lufthavnen direkte til Nørreport Station (ca. 15 min). Udgang 5 og 5 min til hovedindgangen. Billet: 36 DKK (3-zoners billet), døgnet rundt.",
+    "train": "Tog",
+    "trainDesc": "Tag DSB-regionaltoget fra undergrundsstationen ved T3 direkte til Københavns Hovedbanegård på 13 min. 10 min til fods eller skift til bus 1A/2A. Billet: 36 DKK.",
+    "bus": "Bus 5C",
+    "busDesc": "Tag bus 5C fra stoppestedet uden for T3 direkte til Nørreport Station på ca. 35 min, derefter 5 min til fods. Billet: 36 DKK.",
+    "taxi": "Taxa",
+    "taxiDesc": "Køretid: ca. 20–25 min. Pris: 250–300 DKK i dagtimerne, 300–350 DKK om natten/weekend. Kreditkort accepteres.",
+    "rideshare": "Delebil",
+    "rideshareDesc": "Brug Uber eller Bolt til at bestille en tur. Priser ca. 20 % lavere end taxa, ca. 200–280 DKK.",
+    "fromAirport": "Fra Københavns Lufthavn",
+    "fromAirportDesc": "Tag metro linje M2 direkte til Nørreport Station (ca. 15 min), eller tag regionaltoget eller bus 5C. Metroen er den hurtigste mulighed.",
+    "fromStation": "Fra Københavns Hovedbanegård",
+    "fromStationDesc": "Tag metro linje 2 eller 6 til Nørreport Station, 5 min til fods fra udgangen.",
+    "fromNyhavn": "Fra Nyhavn",
+    "fromNyhavnDesc": "15 min gang mod nord langs Gothersgade, forbi farverige historiske huse.",
+    "cycling": "Cykling",
+    "cyclingDesc": "København er cykelvenlig, flere cykelparkeringspladser nær haven, ca. 30 DKK/time for en enkelt tur."
+  },
+  "route": {
+    "title": "Anbefalet rute",
+    "overview": "Anbefales at besøge ca. kl. 9. Start ved hovedindgangen, gå ned ad lindealléen til Rosenborg Slot, besøg rosariet, derefter langs graven for at fodre svaner, og til sidst en picnic på plænen. Hele turen tager ca. 2–3 timer, plus 1–2 timer hvis du besøger Rosenborg Slot.",
+    "steps": [
+      "Forlad Nørreport Station gennem udgang 5, kryds gaden og træd ind i Kongens Haves hovedindgang. Det første du ser er den pænt klippede lindeallé",
+      "Gå ned ad lindealléen, og midt i alléen ser du Christian 4.s bronzestatue, skaberen af Kongens Have",
+      "Fortsæt frem til pladsen foran Rosenborg Slot, som er det bedste sted at tage hele slottet på foto",
+      "Gå ind i rosariet fra pladsens venstre side, beundr over 100 forskellige rosenarter. Juni–august er den bedste periode",
+      "Gå rundt bag Rosenborg Slot og slentrer langs graven, hvor du kan se svaner og ænder. Husk at tage brødkrummer med til at fodre dem",
+      "Gå til legepladsen i havens nordøstlige hjørne, med vintage trælegeudstyr, perfekt til familier med børn",
+      "Find en solrig plæne, bred et tæppe ud og nyd en afslappet picnic",
+      "Forlad til sidst haven gennem vestporten, og gå 5 min til Rundetårn for at fortsætte din København-tur"
+    ]
+  },
+  "photoSpots": {
+    "title": "Fotopladser",
+    "spots": [
+      {
+        "name": "Midten af lindealléen",
+        "desc": "Brug et vidvinkelobjektiv til at fange dybden; lys-skygge-spillet gennem bladene er fremragende"
+      },
+      {
+        "name": "Foran Rosenborg-graven",
+        "desc": "Fang reflektionen af Rosenborg Slot i vandet; reflektionen er klarest om morgenen og aftenen"
+      },
+      {
+        "name": "Rosarium-buen",
+        "desc": "Stil dig under buen i rosariet, med blomstrende roser i forgrunden og Rosenborg Slot i baggrunden"
+      },
+      {
+        "name": "Kirsebærblomster-alléen",
+        "desc": "Fra slutningen af april til begyndelsen af maj blomstrer kirsebæralléen på havens vestside fuldt ud – bedste spot til kirsebærblomst-fotos"
+      },
+      {
+        "name": "Plæne-picnic-scenen",
+        "desc": "Fang den varme picnic-scene med Rosenborg Slot i baggrunden – perfekt til familier og par"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Overnatning",
+    "hotels": [
+      {
+        "name": "Hotel Rosenborg",
+        "desc": "2 min fra Kongens Have, værelser med udsigt over haven, morgenmad med danske wienerbrød",
+        "price": "ca. 1200 DKK/nat"
+      },
+      {
+        "name": "Nørrebro Design Hotel",
+        "desc": "10 min fra Kongens Have, nordisk minimalistisk design, værelser med loft til gulv-vinduer",
+        "price": "ca. 1000 DKK/nat"
+      },
+      {
+        "name": "Andersen Guesthouse",
+        "desc": "Ligger i en gammel bygning nær haven, værelser indrettet med eventyrelementer, værtinden serverer gratis dansk kaff og kiks",
+        "price": "ca. 800 DKK/nat"
+      },
+      {
+        "name": "Copenhagen City Hostel",
+        "desc": "15 min fra Kongens Have, tilbyder sovesale og private værelser, fællesområde med køkken og lounge",
+        "price": "ca. 300 DKK/nat"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotogalleri",
+    "subtitle": "Kongens Have gennem årstiderne",
+    "captions": [
+      "Panoramaudsigt over Kongens Have",
+      "Rosenborg Slot og graven",
+      "Lindealléen",
+      "Rosarium",
+      "Svaner på graven",
+      "Kirsebærblomster om foråret",
+      "Sommerhave",
+      "Efterårsfarver"
+    ],
+    "viewAll": "Se på Google Maps"
+  },
+  "reviews": {
+    "title": "Besøgsanmeldelser",
+    "declaration": "Besøgsfeedback kan ses via Google Maps (eksternt link).",
+    "moreReviews": "Se flere anmeldelser på Google Maps",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "date": "Marts 2026",
+        "rating": 5,
+        "text": "Absolut magisk! Som at træde ind i et H.C. Andersen-eventyr. Roserne var i fuldt flor og fyldte luften med duft, og svanerne gled yndefuldt over graven – alt var perfekt."
+      },
+      {
+        "name": "Emma W.",
+        "date": "Februar 2026",
+        "rating": 5,
+        "text": "En gratis kongelig have – danskerne ved virkelig, hvordan man nyder livet! Find en solrig eftermiddag, bred et picnic-tæppe ud på græsset og slap blot af. Den perfekte måde at bruge tid på."
+      },
+      {
+        "name": "John D.",
+        "date": "Januar 2026",
+        "rating": 4,
+        "text": "Rosenborg Slot er et besøg værd – kronjuvelerne og ravkammeret er imponerende. Jeg vil anbefale at købe Copenhagen Card for at spare penge og komme rundt nemt."
+      },
+      {
+        "name": "Michael T.",
+        "date": "December 2025",
+        "rating": 5,
+        "text": "Kongens Have om vinteren har sin egen charme – stille og fredelig. Graven havde et tyndt lag is, men svanerne svømmede stadig. Så romantisk!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Sådan kommer du hertil",
+    "subtitle": "Øster Voldgade 4A, 1307 København, Danmark",
+    "openMaps": "Se på Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Kongens Haves Uafhængige Rejseforskningsforening · Alle rettigheder forbeholdes.",
+    "privacy": "Privatlivspolitik",
+    "terms": "Vilkår for brug",
+    "cookies": "Cookie-indstillinger",
+    "officialResourcesTitle": "Relaterede ressourcer & information",
+    "officialLinks": {
+      "council": "Visit Denmark",
+      "tourism": "Visit Copenhagen",
+      "england": "Copenhagen Card"
+    },
+    "disclaimer": "Dette website er et uafhængigt turistinformationsprojekt fra tredjepart. Vi er ikke tilknyttet den lokale regering eller andre officielle institutioner."
+  },
+  "privacy": {
+    "title": "Privatlivspolitik",
+    "lastUpdated": "Sidst opdateret: april 2026",
+    "sections": [
+      {
+        "heading": "1. Indsamling af oplysninger",
+        "content": "Generelt indsamler vi ikke aktivt personligt identificerbare oplysninger fra brugere. Eventuelle oplysninger du giver os via kontaktformularer eller e-mails opbevares strengt fortroligt."
+      },
+      {
+        "heading": "2. Brug af oplysninger",
+        "content": "De oplysninger vi indsamler bruges udelukkende til at levere, vedligeholde og forbedre vores tjenester samt til at kommunikere med dig. Vi sælger eller deler ikke dine personlige oplysninger med tredjeparter til marketingformål."
+      },
+      {
+        "heading": "3. Cookies og sporing",
+        "content": "Vi bruger cookies og lignende sporingsteknologier til at følge aktivitet på vores website og gemme visse oplysninger. Du kan instruere din browser til at afvise alle cookies eller til at angive, når en cookie sendes."
+      },
+      {
+        "heading": "4. Datasikkerhed",
+        "content": "Sikkerheden af dine data er vigtig for os. Vi bruger kommercielt acceptable midler til at beskytte dine persondata, selvom ingen metode til internetoverførsel er 100 % sikker."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Vilkår for brug",
+    "lastUpdated": "Sidst opdateret: april 2026",
+    "sections": [
+      {
+        "heading": "1. Accept af vilkår",
+        "content": "Ved at få adgang til og bruge dette website accepterer du at være bundet af disse vilkår for brug. Hvis du er uenig i en del af vilkårene, må du ikke bruge tjenesten."
+      },
+      {
+        "heading": "2. Brug af tjenesten",
+        "content": "Dette website er et uafhængigt turistinformationsprojekt fra tredjepart. De leverede oplysninger er til generel informationsbrug. Du accepterer at bruge sitet ansvarligt og lovligt."
+      },
+      {
+        "heading": "3. Immaterielle rettigheder",
+        "content": "Alt indhold på dette website, herunder tekster, billeder og logoer, tilhører websitets ejer medmindre andet er angivet. Uautoriseret brug, reproduktion eller distribution er strengt forbudt."
+      },
+      {
+        "heading": "4. Ansvarsfraskrivelse",
+        "content": "Vi hæfter ikke for direkte, indirekte, hændelige eller følgeskader, der opstår som følge af brug eller manglende evne til at bruge dette website eller de heri indeholdte oplysninger."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-indstillinger",
+    "description": "Administrer dine cookie-præferencer.",
+    "essential": {
+      "title": "Nødvendige cookies",
+      "description": "Påkrævet for grundlæggende website-funktionalitet.",
+      "badge": "Altid aktiv"
+    },
+    "analytics": {
+      "title": "Analytiske cookies",
+      "description": "Hjælper os med at forstå, hvordan besøgende interagerer med sitet."
+    },
+    "marketing": {
+      "title": "Marketing cookies",
+      "description": "Bruges til at spore besøgende på tværs af websites."
+    },
+    "save": "Gem præferencer",
+    "saved": "Præferencer gemt!"
+  },
+  "officialManagement": {
+    "title": "Om Kongens Have",
+    "text": "Kongens Have drives og vedligeholdes af det danske Kulturministerium og er et af Københavns vigtigste historiske og kulturelle arvsteder.\n\nSom Danmarks ældste kongelige have har Kongens Have været vidne til over 400 års dansk kongelig historie. I dag er haven gratis åben for offentligheden og fungerer som københavnernes centrale rekreative rum og et vigtigt vindue for besøgende fra hele verden til at lære om dansk historie og kultur."
+  },
+  "recommendations": {
+    "title": "Opdag mere",
+    "attractionsTitle": "Attraktioner i nærheden",
+    "toursTitle": "Anbefalede ture & aktiviteter",
+    "attractions": [
+      {"name": "Rundetårn", "url": "https://www.rundetaarn.dk"},
+      {"name": "Nyhavn", "url": "https://www.visitcopenhagen.dk"},
+      {"name": "Tivoli Gardens", "url": "https://www.tivoli.dk"},
+      {"name": "Frederiks Kirke", "url": "https://www.frederikskirken.dk"}
+    ],
+    "tours": [
+      {"name": "København byrundvisning", "url": "https://www.stromma.dk"},
+      {"name": "Kanalkrydning", "url": "https://www.copenhagencanals.com"},
+      {"name": "Cykel bytur", "url": "https://www.bikecph.com"},
+      {"name": "Mad & kultur-tur", "url": "https://www.withlocals.com"}
+    ]
+  },
+  "articles": {
+    "picnicSpots": {
+      "back": "Tilbage til forsiden",
+      "title": "Bedste picnicpladser i København: En guide til Kongens Have",
+      "description": "Hvor kan man picnics i København? Opdag de smukkeste picnicpladser i Kongens Have – gratis adgang, rosarium, graven og udsigt til Rosenborg Slot.",
+      "intro": "Kongens Have er Københavns favorit picnicplads. Med gratis adgang, velplejede plæner og århundredgamle lindealléer er det det perfekte sted at brede et tæppe ud og slappe af. Sådan får du mest muligt ud af din picnic i Danmarks ældste kongelige have.",
+      "sections": [
+        {
+          "heading": "Hvorfor picnic her",
+          "body": "I modsætning til de fleste parker er Kongens Have en del af danskernes dagligliv – lokale picnics her hele året. Plænerne er velplejede, der er masser af skyggefulde bænke, og kulissen af Rosenborg Slot gør selv en enkelt smørfrøstilværelse helt særlig."
+        },
+        {
+          "heading": "Hvad skal man medbringe",
+          "body": "Et tæppe, vand og noget bagværk fra en nærliggende bager er alt hvad du behøver. Butikker omkring Nørreport Station sælger smørrebrød, frugt og kaffe. Bemærk: Glasflasker og åben ild er ikke tilladt, og tag dit skrald med dig."
+        },
+        {
+          "heading": "Bedste tid",
+          "body": "Morgener (før kl. 9) og sene eftermiddage er roligst. Om sommeren topper rosariet fra juni til august og fylder luften med duft – den mest fotogene tid til picnic."
+        }
+      ],
+      "spotsTitle": "Top picnicpladser i haven",
+      "spots": [
+        {
+          "name": "Lindeallé-plænen",
+          "desc": "Åbent græs ved siden af de symmetriske lindetræer – det klassiske Kongens Have-udsyn."
+        },
+        {
+          "name": "Rosariet",
+          "desc": "Over 100 rosenarter omgiver dig med farve og duft om sommeren."
+        },
+        {
+          "name": "Ved graven",
+          "desc": "Bred dit tæppe ud ved vandet og se svanerne glide forbi Rosenborg Slot."
+        },
+        {
+          "name": "Nær Rosenborg Slots plads",
+          "desc": "Det bedste sted for en slot-kulisse på dine picnic-fotos."
+        }
+      ],
+      "tipsTitle": "Picnic-tips",
+      "tips": [
+        "Ankom før kl. 9 eller efter kl. 16 for at undgå rundvisninger",
+        "Tag din egen mad med – der er ingen restauranter i haven",
+        "Hold plænen ren: Tag alt skrald med dig når du går"
+      ],
+      "ctaText": "Klar til at planlægge din picnic i Kongens Have?",
+      "ctaButton": "Se åbningstider & kort"
+    },
+    "thingsToDo": {
+      "back": "Tilbage til forsiden",
+      "title": "Aktiviteter i København: Kongens Have & derudover",
+      "description": "Den ultimative København-aktivitetsliste: Gå en tur i Kongens Have, besøg Rosenborg Slot, fodr svanerne og udforsk nærliggende Nyhavn, Rundetårn og Tivoli.",
+      "intro": "Kort tid men vil se højdepunkterne? Denne København-rute forbinder byens grønne hjerte – Kongens Have – med de klassiske seværdigheder i kort gåafstand. Perfekt til en afslappet halv eller hel dag.",
+      "sections": [
+        {
+          "heading": "Inde i Kongens Have",
+          "body": "Start ved hovedindgangen fra Nørreport Station, gå lindealléen til Christian 4.s bronzestatue, udforsk derefter rosariet og graven. Sæt 1–2 timer af til et afslappet besøg."
+        },
+        {
+          "heading": "Rosenborg Slot",
+          "body": "Midt i haven huser Rosenborg Slot de danske kronjuveler og ravkammeret. Sæt 1–2 timer af; billetter koster 140 DKK for voksne. Copenhagen Card inkluderer gratis adgang."
+        },
+        {
+          "heading": "Seværdigheder i nærheden",
+          "body": "Fra havens vestport er der 5 min til Rundetårn, 15 min til farverige Nyhavn, og en kort tur til Tivoli – alt kan kombineres på en dag."
+        }
+      ],
+      "spotsTitle": "Må ikke misse",
+      "spots": [
+        {
+          "name": "Rosenborg Slot & kronjuveler",
+          "desc": "Et renæssanceslot fra 1700-tallet midt i haven."
+        },
+        {
+          "name": "Nyhavn",
+          "desc": "Københavns ikoniske farverige havn, 15 min til fods."
+        },
+        {
+          "name": "Rundetårn",
+          "desc": "Et observatorium fra 1600-tallet med panoramaudsigt over byen, 5 min væk."
+        },
+        {
+          "name": "Tivoli Gardens",
+          "desc": "Den verdensberømte forlystelsespark, en kort bus- eller metrotur væk."
+        }
+      ],
+      "tipsTitle": "Nyttige tips",
+      "tips": [
+        "Haven er gratis; kun Rosenborg Slot kræver billet",
+        "Brug Copenhagen Card for at spare på slots-entré og transport",
+        "Tag behagelige sko på – de fleste seværdigheder er inden for 20 min gang"
+      ],
+      "ctaText": "Planlæg din København-dag omkring Kongens Have.",
+      "ctaButton": "Se åbningstider & kort"
+    }
+  }
+}

@@ -1,12 +1,14 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
 export default function Header() {
   const t = useTranslations('header');
+  const locale = useLocale();
+  const prefix = locale === 'en' ? '' : `/${locale}`;
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -14,6 +16,8 @@ export default function Header() {
     window.addEventListener('scroll', handler, { passive: true });
     return () => window.removeEventListener('scroll', handler);
   }, []);
+
+  const linkColor = scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)';
 
   return (
     <header
@@ -35,11 +39,17 @@ export default function Header() {
               key={section}
               href={`/#${section}`}
               className="text-sm font-medium transition-colors"
-              style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+              style={{ color: linkColor }}
             >
               {t(section)}
             </a>
           ))}
+          <a href={`${prefix}/picnic-spots`} className="text-sm font-medium transition-colors" style={{ color: linkColor }}>
+            {t('picnic')}
+          </a>
+          <a href={`${prefix}/things-to-do`} className="text-sm font-medium transition-colors" style={{ color: linkColor }}>
+            {t('thingsToDo')}
+          </a>
         </nav>
 
         <div className="flex items-center gap-2">

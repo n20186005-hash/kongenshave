@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "title": "Der Königsgarten (Kongens Have) Kopenhagen – Kostenloser königlicher Garten, Öffnungszeiten & Besucherführer",
+    "description": "Planen Sie Ihren Besuch im Königsgarten (Kongens Have) in Kopenhagen – Dänemarks ältester königlicher Garten. Kostenloser Eintritt, Öffnungszeiten (6:00–22:00), Anfahrt, Tipps zur Rosenborg Burg, Picknickplätze & Fotos."
+  },
+  "header": {
+    "home": "Start",
+    "gallery": "Galerie",
+    "reviews": "Bewertungen",
+    "map": "Karte",
+    "picnic": "Picknickplätze",
+    "thingsToDo": "Aktivitäten",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "title": "Der Königsgarten",
+    "subtitle": "Kopenhavns ältester königlicher Garten & Hans-Christian-Andersens Märchenwelt",
+    "rating": "4,6(13.430)",
+    "reviewCount": "13.430 Bewertungen",
+    "hours": "6:00–22:00",
+    "openMaps": "Standort ansehen"
+  },
+  "intro": {
+    "title": "Entdecken Sie den Königsgarten",
+    "description": "Ganz ehrlich: Wenn Sie das erste Mal in den Königsgarten kommen, fühlen Sie sich vielleicht, als wären Sie in ein Märchen von Hans Christian Andersen getreten. Ich kam an einem Maitag an, die Luft erfüllt vom Duft frisch gemähten Grases und zartem Rosenparfüm. Sonnenlicht fiel durch die Lindenäste und warf flackernde Schatten auf den Boden, und die kubischen Hecken standen wie grüne Bausteine ordentlich an der Allee.\n\nGehen Sie die Lindenallee hinunter, sehen Sie aus der Ferne die kupfergrüne Spitze der Rosenborg Burg in der Sonne glänzen. Das Wassergrabenwasser ist kristallklar, mehrere weiße Schwäne schwimmen gemächlich und tauchen ab und zu den Kopf ins Gefieder. Die Rasenflächen sind bereits belebt: Menschen breiten karierte Decken für ein Picknick aus, andere liegen in der Sonne, und ein paar Kinder jagen Schmetterlinge, ihr Lachen so klar wie Windspiele.\n\nWas den Königsgarten am meisten berührt, ist seine unprätentiöse Wärme. Es gibt keine strengen Wachen, keine teuren Tickets. Sie können einfach auf einer Bank sitzen, den Wolken nachsehen und dem Wind lauschen, der durch die Blätter rauscht.",
+    "visitGuide": {
+      "title": "Besuchstipps",
+      "items": [
+        "Besuchen Sie vor 9 Uhr morgens oder nach 16 Uhr, um Reisegruppen zu meiden",
+        "Der Königsgarten ist kostenlos; für die Rosenborg Burg ist ein Eintritt erforderlich",
+        "Rosen blühen im Sommer; Juni bis August ist die beste Zeit zum Anschauen",
+        "Bringen Sie eigene Speisen für ein entspanntes Picknick auf dem Rasen mit"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Dänemarks ältester königlicher Garten mit 400 Jahren Geschichte",
+        "Rosenborg Burg & Königs Schatzkammer",
+        "Meisterwerk der nordischen Renaissance-Landschaft",
+        "Hans-Christian-Andersens Märcheninspiration"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Der Reiz des Königsgartens",
+    "sections": [
+      {
+        "id": "history",
+        "title": "400 Jahre königliche Geschichte",
+        "content": "Dieser heute voller Lachen erfüllte Garten hat über 400 Jahre königliche Geschichte. 1606 ließ der ehrgeizige dänische König Christian IV. ihn anlegen. Ursprünglich war er nur ein königliches Jagdgebiet und Gemüsegarten, der den Palast mit frischen Produkten versorgte. 1634 wurde mitten im Garten die Rosenborg Burg errichtet, wodurch er zur königlichen Sommerresidenz wurde, die nur Adligen und der Königsfamilie zugänglich war.\n\nEnde des 18. Jahrhunderts, mit der Verbreitung demokratischer Ideen, öffnete sich der Königsgarten für die Öffentlichkeit und wurde Kopenhavns erster öffentlicher Park. Im 19. Jahrhundert wurde der Garten umfassend renoviert, wobei Rosengarten, Skulpturen und Alleen hinzukamen, die das heutige Bild prägen."
+      },
+      {
+        "id": "architecture",
+        "title": "Architektur & Gartengestaltung",
+        "content": "Basierend auf geometrisch symmetrischem Barocklayout, vermischt mit dem wilden Charme englischer Landschaftsgärten. Zu den Merkmalen gehören kubische Lindenhecken, gewundene Wassergräben, saisonale Blumenbeete und die zentrale Rosenborg Burg. Verbindet nordische Renaissance und barocke Gartenstile, mit späteren romantischen Ergänzungen. Klare, elegante Linien und natürliche Farbharmonie.\n\nDer Garten beherbergt zahlreiche Skulpturen des 19. Jahrhunderts, und der Rosengarten bietet über 100 Rosenarten, die im Sommer blühen und eine märchenhafte Atmosphäre schaffen."
+      },
+      {
+        "id": "culture",
+        "title": "Kulturelle Bedeutung",
+        "content": "Vom exklusiven königlichen Jagdgebiet und Gemüsegarten zum gemeinsam genutzten öffentlichen Raum wandelte sich der Garten und inspirierte Schriftsteller wie Hans Christian Andersen, der hier oft spazieren ging und viele Märchen schrieb. Heute ist er das Herz des Kopenhagener Alltagslebens, mit Picknicks, Spaziergängen, Konzerten und kulturellen Veranstaltungen, und verkörpert Dänemarks „hygge“-Philosophie.\n\nIm Frühling blühen Kirschblüten und verwandeln den Garten in ein rosafarbenes Meer; im Sommer blühen Rosen und erfüllen die Luft mit Duft; im Herbst färben sich die Blätter golden und bedecken die Wege; im Winter bedeckt Schnee alles und schafft ein eisiges Märchen."
+      },
+      {
+        "id": "rosenborg",
+        "title": "Rosenborg Burg",
+        "content": "Die Rosenborg Burg ist das auffälligste Gebäude im Zentrum des Gartens, 1634 als Sommerpalast von König Christian IV. von Dänemark erbaut. Heute beherbergt die Burg die dänischen Kronjuwelen, den berühmten Bernsteinraum und Porträts verstorbener Monarchen.\n\nDie Rosenborg Burg ist geöffnet 10:00–17:00 (montags geschlossen, im Juni–Aug montags geöffnet). Eintritt: 140 DKK Erwachsene, 70 DKK Studenten, unter 17 kostenlos. Wir empfehlen 1–2 Std. für Ihren Besuch."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Grundinformationen",
+    "officialName": "Offizieller Name",
+    "officialNameValue": "Kongens Have (Der Königsgarten)",
+    "type": "Attraktionstyp",
+    "typeValue": "Königlicher Garten, historischer Park, städtisches Erholungsgebiet",
+    "country": "Land",
+    "countryValue": "Dänemark",
+    "city": "Stadt",
+    "cityValue": "Kopenhagen",
+    "googleRating": "Google-Bewertung",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "addressValue": "Øster Voldgade 4A, 1307 København, Dänemark"
+  },
+  "hours": {
+    "title": "Öffnungszeiten",
+    "summer": "Sommer (1. Apr – 30. Sep)",
+    "summerTime": "6:00–22:00",
+    "winter": "Winter (1. Okt – 31. März)",
+    "winterTime": "7:00–20:00",
+    "christmas": "Weihnachten (24.–25. Dez)",
+    "christmasTime": "10:00–18:00",
+    "rosenborg": "Rosenborg Burg",
+    "rosenborgTime": "10:00–17:00 (montags geschlossen, im Juni–Aug geöffnet)",
+    "tip": "Besuchen Sie vor 9 Uhr oder nach 16 Uhr für weiches Licht und weniger Menschen"
+  },
+  "tickets": {
+    "title": "Eintrittspreise",
+    "garden": "Der Königsgarten",
+    "gardenPrice": "Kostenloser Eintritt, kein Ticket nötig",
+    "rosenborg": "Rosenborg Burg (inkl. Königs Schatzkammer)",
+    "adults": "Erwachsene",
+    "adultsPrice": "140 DKK",
+    "students": "Studenten",
+    "studentsPrice": "70 DKK",
+    "under17": "Unter 17",
+    "under17Price": "Kostenlos",
+    "card": "Copenhagen Card",
+    "cardPrice": "~399 DKK/24 Std., beinhaltet freien Eintritt zur Rosenborg Burg und öffentliche Verkehrsmittel"
+  },
+  "transport": {
+    "title": "Anfahrt",
+    "metro": "Metro (sehr empfohlen)",
+    "metroDesc": "Nehmen Sie von Terminal 3 (T3) des Flughafens die Metro Linie M2 direkt zum Nørreport Bahnhof (ca. 15 Min). Ausgang 5, dann 5 Min zum Haupteingang. Ticket: 36 DKK (3-Zonen-Ticket), rund um die Uhr.",
+    "train": "Zug",
+    "trainDesc": "Nehmen Sie den DSB-Regionalzug vom unterirdischen Bahnhof am T3 direkt zum Kopenhagener Hauptbahnhof in 13 Min. 10 Min zu Fuß oder Umstieg auf Bus 1A/2A. Ticket: 36 DKK.",
+    "bus": "Bus 5C",
+    "busDesc": "Nehmen Sie den Bus 5C von der Haltestelle vor T3 direkt zum Nørreport Bahnhof in ca. 35 Min, dann 5 Min zu Fuß. Ticket: 36 DKK.",
+    "taxi": "Taxi",
+    "taxiDesc": "Fahrzeit: ca. 20–25 Min. Kosten: 250–300 DKK tagsüber, 300–350 DKK nachts/am Wochenende. Kreditkarten akzeptiert.",
+    "rideshare": "Fahrgemeinschaft",
+    "rideshareDesc": "Nutzen Sie Uber oder Bolt zum Buchen einer Fahrt. Preise etwa 20 % niedriger als Taxis, ca. 200–280 DKK.",
+    "fromAirport": "Vom Kopenhagener Flughafen",
+    "fromAirportDesc": "Nehmen Sie die Metro Linie M2 direkt zum Nørreport Bahnhof (ca. 15 Min) oder den Regionalzug bzw. Bus 5C. Die Metro ist die schnellste Option.",
+    "fromStation": "Vom Kopenhagener Hauptbahnhof",
+    "fromStationDesc": "Nehmen Sie die Metro Linie 2 oder 6 zum Nørreport Bahnhof, 5 Min vom Ausgang zu Fuß.",
+    "fromNyhavn": "Von Nyhavn",
+    "fromNyhavnDesc": "15 Min Fußweg nach Norden entlang der Gothersgade, vorbei an bunten historischen Häusern.",
+    "cycling": "Fahrrad",
+    "cyclingDesc": "Kopenhagen ist fahrradfreundlich, mehrere Fahrradparkplätze nahe dem Garten, ca. 30 DKK/Std. für eine einfache Fahrt."
+  },
+  "route": {
+    "title": "Empfohlene Route",
+    "overview": "Empfohlen ab etwa 9 Uhr. Starten Sie am Haupteingang, gehen Sie die Lindenallee zur Rosenborg Burg hinunter, besuchen Sie den Rosengarten, dann entlang des Wassergrabens, um Schwäne zu füttern, und machen Sie schließlich ein Picknick auf dem Rasen. Die gesamte Tour dauert etwa 2–3 Std., plus 1–2 Std. für die Rosenborg Burg.",
+    "steps": [
+      "Verlassen Sie den Nørreport Bahnhof durch Ausgang 5, überqueren Sie die Straße und betreten Sie den Haupteingang des Königsgartens. Zuerst sehen Sie die ordentlich gestutzte Lindenallee",
+      "Gehen Sie die Lindenallee hinunter, und in der Mitte der Allee sehen Sie die Bronzestatue von Christian IV., dem Erbauer des Königsgartens",
+      "Gehen Sie weiter zum Platz vor der Rosenborg Burg, dem besten Spot für eine Gesamtaufnahme der Burg",
+      "Betreten Sie den Rosengarten von der linken Seite des Platzes, bewundern Sie über 100 verschiedene Rosenarten. Juni–August ist die beste Zeit",
+      "Gehen Sie zum hinteren Teil der Rosenborg Burg und schlendern Sie entlang des Wassergrabens, wo Sie Schwäne und Enten sehen können. Bringen Sie etwas Brotkrümel zum Füttern mit",
+      "Gehen Sie zum Kinderspielplatz in der nordöstlichen Ecke des Gartens, mit vintage Holzspielgeräten, perfekt für Familien mit Kindern",
+      "Suchen Sie sich einen sonnigen Rasen, breiten Sie eine Decke aus und genießen Sie ein entspanntes Picknick",
+      "Verlassen Sie schließlich den Garten durch das Westtor und gehen Sie 5 Min zum Runden Turm, um Ihre Kopenhagen-Tour fortzusetzen"
+    ]
+  },
+  "photoSpots": {
+    "title": "Foto-Spots",
+    "spots": [
+      {
+        "name": "Mitte der Lindenallee",
+        "desc": "Nutzen Sie ein Weitwinkelobjektiv, um die Tiefe einzufangen; das Licht-Schatten-Spiel durch die Blätter ist hervorragend"
+      },
+      {
+        "name": "Vor dem Rosenborg-Wassergraben",
+        "desc": "Fangen Sie das Spiegelbild der Rosenborg Burg im Wasser ein; morgens und abends am klarsten"
+      },
+      {
+        "name": "Rosengarten-Bogen",
+        "desc": "Stellen Sie sich unter den Bogen des Rosengartens, mit blühenden Rosen im Vordergrund und der Rosenborg Burg im Hintergrund"
+      },
+      {
+        "name": "Kirschblüten-Allee",
+        "desc": "Von Ende April bis Anfang Mai blüht die Kirschblütenallee an der Westseite des Gartens voll auf – der beste Spot für Kirschblütenfotos"
+      },
+      {
+        "name": "Rasen-Picknick-Szene",
+        "desc": "Fangen Sie die warme Picknick-Szene mit der Rosenborg Burg im Hintergrund ein – perfekt für Familien und Paare"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Unterkunft",
+    "hotels": [
+      {
+        "name": "Hotel Rosenborg",
+        "desc": "2 Min vom Königsgarten, Zimmer mit Gartenblick, Frühstück mit dänischen Gebäckstücken",
+        "price": "ca. 1200 DKK/Nacht"
+      },
+      {
+        "name": "Nørrebro Design Hotel",
+        "desc": "10 Min vom Königsgarten, nordisches Minimaldesign, Zimmer mit raumhohen Fenstern",
+        "price": "ca. 1000 DKK/Nacht"
+      },
+      {
+        "name": "Andersen Guesthouse",
+        "desc": "In einem Altbau nahe dem Garten, Zimmer mit Märchenelementen, Gastgeberin bietet kostenlosen dänischen Kaffee und Kekse",
+        "price": "ca. 800 DKK/Nacht"
+      },
+      {
+        "name": "Copenhagen City Hostel",
+        "desc": "15 Min vom Königsgarten, bietet Schlafsäle und Privatzimmer, Gemeinschaftsbereich mit Küche und Lounge",
+        "price": "ca. 300 DKK/Nacht"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotogalerie",
+    "subtitle": "Der Königsgarten im Jahresverlauf",
+    "captions": [
+      "Panoramablick auf den Königsgarten",
+      "Rosenborg Burg und der Wassergraben",
+      "Lindenallee",
+      "Rosengarten",
+      "Schwäne am Wassergraben",
+      "Kirschblüten im Frühling",
+      "Sommergarten",
+      "Herbstfarben"
+    ],
+    "viewAll": "Auf Google Maps ansehen"
+  },
+  "reviews": {
+    "title": "Besucherbewertungen",
+    "declaration": "Besucherfeedback über Google Maps einsehbar (externer Link).",
+    "moreReviews": "Weitere Bewertungen auf Google Maps",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "date": "März 2026",
+        "rating": 5,
+        "text": "Absolut magisch! Wie ein Eintritt in ein Hans-Christian-Andersen-Märchen. Die Rosen waren in voller Blüte und erfüllten die Luft mit ihrem Duft, und die Schwäne glitten anmutig über den Wassergraben – alles war perfekt."
+      },
+      {
+        "name": "Emma W.",
+        "date": "Februar 2026",
+        "rating": 5,
+        "text": "Ein kostenloser königlicher Garten – Dänen wissen wirklich, wie man das Leben genießt! Suchen Sie sich einen sonnigen Nachmittag, breiten Sie ein Picknick auf dem Gras aus und entspannen Sie einfach. Die perfekte Art, Zeit zu verbringen."
+      },
+      {
+        "name": "John D.",
+        "date": "Januar 2026",
+        "rating": 4,
+        "text": "Die Rosenborg Burg ist einen Besuch wert – die Kronjuwelen und der Bernsteinraum sind beeindruckend. Ich würde die Copenhagen Card kaufen, um Geld zu sparen und gut herumzukommen."
+      },
+      {
+        "name": "Michael T.",
+        "date": "Dezember 2025",
+        "rating": 5,
+        "text": "Der Königsgarten im Winter hat seinen eigenen Reiz – ruhig und friedlich. Der Wassergraben hatte eine dünne Eisschicht, aber die Schwäne schwammen noch. So romantisch!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Anfahrt",
+    "subtitle": "Øster Voldgade 4A, 1307 København, Dänemark",
+    "openMaps": "Auf Google Maps ansehen"
+  },
+  "footer": {
+    "rights": "© 2026 Unabhängiger Reiseforschungsverband des Königsgartens · Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Einstellungen",
+    "officialResourcesTitle": "Verwandte Ressourcen & Informationen",
+    "officialLinks": {
+      "council": "Visit Denmark",
+      "tourism": "Visit Copenhagen",
+      "england": "Copenhagen Card"
+    },
+    "disclaimer": "Diese Website ist ein unabhängiges touristisches Informationsprojekt Dritter. Wir sind weder mit der lokalen Regierung noch mit anderen offiziellen Institutionen verbunden."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: April 2026",
+    "sections": [
+      {
+        "heading": "1. Datenerfassung",
+        "content": "Wir erfassen im Allgemeinen keine personenbezogenen Daten aktiv von Nutzern. Alle von Ihnen über Kontaktformulare oder E-Mails bereitgestellten Informationen werden streng vertraulich behandelt."
+      },
+      {
+        "heading": "2. Verwendung der Daten",
+        "content": "Die von uns erfassten Daten dienen ausschließlich der Bereitstellung, Wartung und Verbesserung unserer Dienste sowie der Kommunikation mit Ihnen. Wir verkaufen oder teilen Ihre personenbezogenen Daten nicht zu Marketingzwecken mit Dritten."
+      },
+      {
+        "heading": "3. Cookies und Tracking",
+        "content": "Wir verwenden Cookies und ähnliche Tracking-Technologien, um die Aktivität auf unserer Website zu verfolgen und bestimmte Informationen zu speichern. Sie können Ihren Browser anweisen, alle Cookies abzulehnen oder anzuzeigen, wenn ein Cookie gesendet wird."
+      },
+      {
+        "heading": "4. Datensicherheit",
+        "content": "Die Sicherheit Ihrer Daten ist uns wichtig. Wir verwenden kommerziell akzeptable Mittel, um Ihre personenbezogenen Daten zu schützen, obwohl keine Methode der Internetübertragung 100 % sicher ist."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: April 2026",
+    "sections": [
+      {
+        "heading": "1. Annahme der Bedingungen",
+        "content": "Durch den Zugriff auf und die Nutzung dieser Website erklären Sie sich mit diesen Nutzungsbedingungen einverstanden. Wenn Sie mit einem Teil der Bedingungen nicht einverstanden sind, dürfen Sie den Dienst nicht nutzen."
+      },
+      {
+        "heading": "2. Nutzung des Dienstes",
+        "content": "Diese Website ist ein unabhängiges touristisches Informationsprojekt Dritter. Die bereitgestellten Informationen dienen allgemeinen Informationszwecken. Sie verpflichten sich, die Website verantwortungsbewusst und gesetzlich zu nutzen."
+      },
+      {
+        "heading": "3. Geistiges Eigentum",
+        "content": "Alle Inhalte auf dieser Website, einschließlich Texte, Bilder und Logos, sind Eigentum des Website-Betreibers, sofern nicht anders angegeben. Unautorisierte Nutzung, Vervielfältigung oder Verbreitung ist strengstens untersagt."
+      },
+      {
+        "heading": "4. Haftungsausschluss",
+        "content": "Wir haften nicht für direkte, indirekte, zufällige oder Folgeschäden, die aus der Nutzung oder Unmöglichkeit der Nutzung dieser Website oder der enthaltenen Informationen resultieren."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie-Einstellungen",
+    "description": "Verwalten Sie Ihre Cookie-Präferenzen.",
+    "essential": {
+      "title": "Notwendige Cookies",
+      "description": "Erforderlich für grundlegende Website-Funktionen.",
+      "badge": "Immer aktiv"
+    },
+    "analytics": {
+      "title": "Analyse-Cookies",
+      "description": "Helfen uns zu verstehen, wie Besucher mit der Seite interagieren."
+    },
+    "marketing": {
+      "title": "Marketing-Cookies",
+      "description": "Werden verwendet, um Besucher über Websites hinweg zu verfolgen."
+    },
+    "save": "Präferenzen speichern",
+    "saved": "Präferenzen gespeichert!"
+  },
+  "officialManagement": {
+    "title": "Über den Königsgarten",
+    "text": "Der Königsgarten wird vom dänischen Kulturministerium verwaltet und gepflegt und ist eines der wichtigsten historischen und kulturellen Erbe Kopenhagens.\n\nAls Dänemarks ältester königlicher Garten hat der Königsgarten über 400 Jahre dänischer Königgeschichte miterlebt. Heute ist der Garten kostenlos für die Öffentlichkeit zugänglich und dient als zentraler Erholungsraum für Kopenhagener sowie als wichtiges Fenster für Besucher aus aller Welt, um dänische Geschichte und Kultur kennenzulernen."
+  },
+  "recommendations": {
+    "title": "Entdecken Sie mehr",
+    "attractionsTitle": "Sehenswürdigkeiten in der Nähe",
+    "toursTitle": "Empfohlene Touren & Aktivitäten",
+    "attractions": [
+      {"name": "Rundetårn (Der Runde Turm)", "url": "https://www.rundetaarn.dk"},
+      {"name": "Nyhavn", "url": "https://www.visitcopenhagen.dk"},
+      {"name": "Tivoli Gardens", "url": "https://www.tivoli.dk"},
+      {"name": "Frederiks Kirke", "url": "https://www.frederikskirken.dk"}
+    ],
+    "tours": [
+      {"name": "Kopenhagen Stadtführung", "url": "https://www.stromma.dk"},
+      {"name": "Kanalfahrt", "url": "https://www.copenhagencanals.com"},
+      {"name": "Fahrrad-Stadttour", "url": "https://www.bikecph.com"},
+      {"name": "Essen-&-Kultur-Tour", "url": "https://www.withlocals.com"}
+    ]
+  },
+  "articles": {
+    "picnicSpots": {
+      "back": "Zurück zur Startseite",
+      "title": "Beste Picknickplätze in Kopenhagen: Ein Führer zum Königsgarten",
+      "description": "Wo kann man in Kopenhagen picknicken? Entdecken Sie die schönsten Picknickplätze im Königsgarten (Kongens Have) – kostenloser Eintritt, Rosengarten, Wassergraben und Blick auf die Rosenborg Burg.",
+      "intro": "Der Königsgarten ist Kopenhavns beliebtester Picknickplatz. Mit kostenlosem Eintritt, gepflegten Rasenflächen und jahrhundertealten Lindenalleen ist er der perfekte Ort, um eine Decke auszubreiten und zur Ruhe zu kommen. So holen Sie das Beste aus Ihrem Picknick im ältesten königlichen Garten Dänemarks heraus.",
+      "sections": [
+        {
+          "heading": "Warum hier picknicken",
+          "body": "Anders als die meisten Parks ist der Königsgarten Teil des dänischen Alltags – Einheimische picknicken hier das ganze Jahr über. Die Rasen sind gut gepflegt, es gibt viele schattige Bänke, und die Kulisse der Rosenborg Burg macht selbst ein einfaches Sandwich besonders."
+        },
+        {
+          "heading": "Was mitbringen",
+          "body": "Eine Decke, Wasser und etwas Gebäck von einer nahegelegenen Bäckerei genügen. Läden rund um den Nørreport Bahnhof verkaufen Smørrebrød, Obst und Kaffee. Bitte beachten Sie: Glasflaschen und offenes Feuer sind nicht erlaubt, und nehmen Sie Ihren Müll wieder mit."
+        },
+        {
+          "heading": "Beste Zeit",
+          "body": "Vormittags (vor 9 Uhr) und späte Nachmittage sind am ruhigsten. Im Sommer erreicht der Rosengarten von Juni bis August seinen Höhepunkt und erfüllt die Luft mit Duft – die fotogenste Zeit für ein Picknick."
+        }
+      ],
+      "spotsTitle": "Top-Picknickplätze im Garten",
+      "spots": [
+        {
+          "name": "Rasen der Lindenallee",
+          "desc": "Weites offenes Gras neben den symmetrischen Linden – der klassische Königsgarten-Blick."
+        },
+        {
+          "name": "Der Rosengarten",
+          "desc": "Über 100 Rosenarten umgeben Sie im Sommer mit Farbe und Duft."
+        },
+        {
+          "name": "Am Wassergraben",
+          "desc": "Breiten Sie Ihre Decke am Wasser aus und sehen Sie den Schwänen bei der Rosenborg Burg zusehen."
+        },
+        {
+          "name": "Nahe dem Platz der Rosenborg Burg",
+          "desc": "Der beste Spot für eine Burg-Kulisse auf Ihren Picknickfotos."
+        }
+      ],
+      "tipsTitle": "Picknick-Tipps",
+      "tips": [
+        "Kommen Sie vor 9 Uhr oder nach 16 Uhr, um Reisegruppen zu meiden",
+        "Bringen Sie eigene Speisen mit – im Garten gibt es keine Restaurants",
+        "Halten Sie den Rasen sauber: Nehmen Sie beim Gehen allen Müll mit"
+      ],
+      "ctaText": "Bereit, Ihr Picknick im Königsgarten zu planen?",
+      "ctaButton": "Öffnungszeiten & Karte ansehen"
+    },
+    "thingsToDo": {
+      "back": "Zurück zur Startseite",
+      "title": "Aktivitäten in Kopenhagen: Der Königsgarten & darüber hinaus",
+      "description": "Die ultimative Kopenhagen-Aktivitätenliste: Schlendern Sie durch den Königsgarten, besichtigen Sie die Rosenborg Burg, füttern Sie die Schwäne und erkunden Sie das nahegelegene Nyhavn, den Runden Turm und Tivoli Gardens.",
+      "intro": "Wenig Zeit, aber die Highlights sehen? Diese Kopenhagen-Route verbindet das grüne Herz der Stadt – den Königsgarten – mit den klassischen Sehenswürdigkeiten in kurzem Fußweg. Perfekt für einen entspannten halben oder ganzen Tag.",
+      "sections": [
+        {
+          "heading": "Im Königsgarten",
+          "body": "Starten Sie am Haupteingang vom Nørreport Bahnhof, gehen Sie die Lindenallee zur Bronzestatue von Christian IV., erkunden Sie dann den Rosengarten und den Wassergraben. Planen Sie 1–2 Std. für einen entspannten Besuch ein."
+        },
+        {
+          "heading": "Rosenborg Burg",
+          "body": "Im Zentrum des Gartens beherbergt die Rosenborg Burg die dänischen Kronjuwelen und den Bernsteinraum. Planen Sie 1–2 Std. ein; Tickets kosten 140 DKK für Erwachsene. Die Copenhagen Card beinhaltet freien Eintritt."
+        },
+        {
+          "heading": "Sehenswürdigkeiten in der Nähe",
+          "body": "Vom Westtor des Gartens sind es 5 Min zum Runden Turm, 15 Min zum bunten Nyhavn und eine kurze Fahrt zu Tivoli Gardens – alles lässt sich an einem Tag kombinieren."
+        }
+      ],
+      "spotsTitle": "Nicht verpassen",
+      "spots": [
+        {
+          "name": "Rosenborg Burg & Kronjuwelen",
+          "desc": "Eine Renaissance-Burg des 17. Jahrhunderts im Herzen des Gartens."
+        },
+        {
+          "name": "Nyhavn",
+          "desc": "Kopenhavns ikonischer bunter Hafen, 15 Min zu Fuß."
+        },
+        {
+          "name": "Der Runde Turm (Rundetårn)",
+          "desc": "Ein Observatorium des 17. Jahrhunderts mit Panoramablick über die Stadt, 5 Min entfernt."
+        },
+        {
+          "name": "Tivoli Gardens",
+          "desc": "Der weltberühmte Vergnügungspark, eine kurze Bus- oder Metrofahrt entfernt."
+        }
+      ],
+      "tipsTitle": "Hilfreiche Tipps",
+      "tips": [
+        "Der Garten ist kostenlos; nur für die Rosenborg Burg ist ein Ticket nötig",
+        "Nutzen Sie die Copenhagen Card, um bei Burg-Eintritt und Verkehr zu sparen",
+        "Tragen Sie bequeme Schuhe – die meisten Sehenswürdigkeiten sind in 20 Min Fußweg erreichbar"
+      ],
+      "ctaText": "Planen Sie Ihren Kopenhagen-Tag um den Königsgarten herum.",
+      "ctaButton": "Öffnungszeiten & Karte ansehen"
+    }
+  }
+}

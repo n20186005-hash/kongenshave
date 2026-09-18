@@ -33,6 +33,12 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            <a href={`${prefix}/picnic-spots`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('picnic')}
+            </a>
+            <a href={`${prefix}/things-to-do`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
+              {t('thingsToDo')}
+            </a>
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>

@@ -1,13 +1,15 @@
 {
   "meta": {
-    "title": "The King's Garden (Kongens Have)｜Copenhagen's Oldest Royal Garden & Fairytale Escape - Best European Spots",
-    "description": "Complete guide to The King's Garden (Kongens Have) in Copenhagen. Learn about opening hours, transportation, ticket prices, tour tips and stunning photos. Denmark's oldest royal garden and Hans Christian Andersen's source of inspiration."
+    "title": "The King's Garden (Kongens Have), Copenhagen — Free Royal Garden, Opening Hours & Visitor Guide",
+    "description": "Plan your visit to The King's Garden (Kongens Have) in Copenhagen — Denmark's oldest royal garden. Free admission, opening hours (6:00–22:00), how to get there, Rosenborg Castle tips, picnic spots & stunning photos."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
+    "picnic": "Picnic Spots",
+    "thingsToDo": "Things to Do",
     "backToHome": "Back to Home"
   },
   "hero": {
@@ -338,5 +340,101 @@
       {"name": "Bike City Tour", "url": "https://www.bikecph.com"},
       {"name": "Food & Culture Tour", "url": "https://www.withlocals.com"}
     ]
+  },
+  "articles": {
+    "picnicSpots": {
+      "back": "Back to home",
+      "title": "Best Picnic Spots in Copenhagen: A Guide to The King's Garden",
+      "description": "Where to picnic in Copenhagen? Discover the most beautiful picnic spots in The King's Garden (Kongens Have) — free entry, rose gardens, the moat and Rosenborg Castle views.",
+      "intro": "The King's Garden is Copenhagen's favourite picnic spot. With free admission, manicured lawns and centuries-old linden avenues, it is the perfect place to spread a blanket and slow down. Here is how to make the most of your picnic in the oldest royal garden in Denmark.",
+      "sections": [
+        {
+          "heading": "Why picnic here",
+          "body": "Unlike most parks, The King's Garden is part of Danish daily life — locals picnic here year-round. The lawns are well kept, there are plenty of shaded benches, and the backdrop of Rosenborg Castle makes even a simple sandwich feel special."
+        },
+        {
+          "heading": "What to bring",
+          "body": "A blanket, water and some pastries from a nearby bakery are all you need. Shops around Nørreport Station sell smørrebrød, fruit and coffee. Note that glass bottles and open fires are not allowed, and please take your rubbish with you."
+        },
+        {
+          "heading": "Best time to go",
+          "body": "Mornings (before 9 AM) and late afternoons are quiest. In summer the rose garden peaks from June to August, filling the air with fragrance — the most photogenic time for a picnic."
+        }
+      ],
+      "spotsTitle": "Top picnic spots in the garden",
+      "spots": [
+        {
+          "name": "Linden Avenue lawns",
+          "desc": "Wide open grass beside the symmetrical linden trees — the classic King's Garden view."
+        },
+        {
+          "name": "The Rose Garden",
+          "desc": "More than 100 rose varieties surround you with colour and scent in summer."
+        },
+        {
+          "name": "By the moat",
+          "desc": "Spread your blanket near the water and watch the swans glide past Rosenborg Castle."
+        },
+        {
+          "name": "Near Rosenborg Castle square",
+          "desc": "The best spot for a castle backdrop in your picnic photos."
+        }
+      ],
+      "tipsTitle": "Picnic tips",
+      "tips": [
+        "Arrive before 9 AM or after 4 PM to avoid tour groups",
+        "Bring your own food — there are no restaurants inside the garden",
+        "Keep the lawn clean: take all rubbish with you when you leave"
+      ],
+      "ctaText": "Ready to plan your picnic in The King's Garden?",
+      "ctaButton": "View opening hours & map"
+    },
+    "thingsToDo": {
+      "back": "Back to home",
+      "title": "Things to Do in Copenhagen: The King's Garden & Beyond",
+      "description": "The ultimate Copenhagen things-to-do list: stroll The King's Garden, tour Rosenborg Castle, feed the swans and explore nearby Nyhavn, the Round Tower and Tivoli Gardens.",
+      "intro": "Short on time but want the highlights? This Copenhagen itinerary links the city's green heart — The King's Garden — with the classic sights just a short walk away. Perfect for a relaxed half-day or full day out.",
+      "sections": [
+        {
+          "heading": "Inside The King's Garden",
+          "body": "Start at the main entrance from Nørreport Station, walk the linden avenue to the bronze statue of Christian IV, then explore the rose garden and the moat. Allow 1–2 hours for a relaxed visit."
+        },
+        {
+          "heading": "Rosenborg Castle",
+          "body": "In the centre of the garden, Rosenborg Castle houses the Danish Crown Jewels and the Amber Room. Allow 1–2 hours; tickets cost 140 DKK for adults. The Copenhagen Card includes free entry."
+        },
+        {
+          "heading": "Nearby attractions",
+          "body": "From the garden's west gate it is a 5-minute walk to the Round Tower, 15 minutes to colourful Nyhavn, and a short ride to Tivoli Gardens — all easy to combine in one day."
+        }
+      ],
+      "spotsTitle": "Don't miss",
+      "spots": [
+        {
+          "name": "Rosenborg Castle & Crown Jewels",
+          "desc": "A 17th-century Renaissance castle in the heart of the garden."
+        },
+        {
+          "name": "Nyhavn",
+          "desc": "Copenhagen's iconic colourful harbour, 15 minutes on foot."
+        },
+        {
+          "name": "The Round Tower (Rundetårn)",
+          "desc": "A 17th-century observatory with a panoramic city view, 5 minutes away."
+        },
+        {
+          "name": "Tivoli Gardens",
+          "desc": "The world-famous amusement park, a short bus or metro ride away."
+        }
+      ],
+      "tipsTitle": "Helpful tips",
+      "tips": [
+        "The garden is free; only Rosenborg Castle requires a ticket",
+        "Use the Copenhagen Card to save on castle entry and transport",
+        "Wear comfortable shoes — most sights are within a 20-minute walk"
+      ],
+      "ctaText": "Plan your Copenhagen day out around The King's Garden.",
+      "ctaButton": "View opening hours & map"
+    }
   }
 }
