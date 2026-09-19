@@ -23,7 +23,13 @@ export default async function HomePage({
   setRequestLocale(locale);
 
   const baseUrl = 'https://www.kongenshave.com';
-  const url = locale === 'zh' ? `${baseUrl}/` : `${baseUrl}/en`;
+  const localeUrls: Record<string, string> = {
+    en: `${baseUrl}/`,
+    zh: `${baseUrl}/zh`,
+    de: `${baseUrl}/de`,
+    da: `${baseUrl}/da`,
+  };
+  const url = localeUrls[locale] ?? localeUrls.en;
   const structuredData = {
     '@context': 'https://schema.org',
     '@type': 'TouristAttraction',
