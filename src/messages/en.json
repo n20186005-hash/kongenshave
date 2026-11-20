@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "The King's Garden (Kongens Have), Copenhagen — Free Royal Garden, Opening Hours & Visitor Guide",
-    "description": "Plan your visit to The King's Garden (Kongens Have) in Copenhagen — Denmark's oldest royal garden. Free admission, opening hours (6:00–22:00), how to get there, Rosenborg Castle tips, picnic spots & stunning photos."
+    "description": "Plan your visit to The King's Garden (Kongens Have) in Copenhagen — Denmark's oldest royal garden. Free admission, opening hours, how to get there, Rosenborg Castle tips, picnic spots & stunning photos."
   },
   "header": {
     "home": "Home",
@@ -17,7 +17,7 @@
     "subtitle": "Copenhagen's Oldest Royal Garden & Hans Christian Andersen's Fairytale Escape",
     "rating": "4.6(13,430)",
     "reviewCount": "13,430 reviews",
-    "hours": "6:00-22:00",
+    "hours": "Seasonal opening hours",
     "openMaps": "View Location"
   },
   "intro": {
@@ -84,15 +84,16 @@
   },
   "hours": {
     "title": "Opening Hours",
-    "summer": "Summer (Apr 1 - Sep 30)",
-    "summerTime": "6:00-22:00",
-    "winter": "Winter (Oct 1 - Mar 31)",
-    "winterTime": "7:00-20:00",
-    "christmas": "Christmas (Dec 24-25)",
-    "christmasTime": "10:00-18:00",
+    "summer": "May–August",
+    "summerTime": "07:00–22:00",
+    "winter": "November–February",
+    "winterTime": "07:00–17:00",
+    "shoulder": "March, April, September and October",
+    "shoulderTime": "Mar/Oct 07:00–19:00* · Apr/Sep 07:00–21:00",
     "rosenborg": "Rosenborg Castle",
     "rosenborgTime": "10:00-17:00 (closed Mondays, open Mondays Jun-Aug)",
-    "tip": "Recommended to visit before 9 AM or after 4 PM for soft light and fewer crowds"
+    "tip": "*March and October hours change with the switch between standard time and daylight saving time. Check the official timetable before visiting.",
+    "source": "Official garden timetable"
   },
   "tickets": {
     "title": "Ticket Prices",

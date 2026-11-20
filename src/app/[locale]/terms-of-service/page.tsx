@@ -8,23 +8,21 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
+  const origin = 'https://www.kongenshave.com';
+  const path = '/terms-of-service';
+  const en = origin + path;
+  const languages: Record<string, string> = {
+    en,
+    zh: origin + '/zh' + path,
+    de: origin + '/de' + path,
+    da: origin + '/da' + path,
+    'x-default': en,
+  };
 
   return {
     alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
+      canonical: languages[locale] ?? en,
+      languages,
     },
   };
 }

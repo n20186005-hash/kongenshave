@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Kongens Have København – Gratis kongelig have, åbningstider & besøgsguide",
-    "description": "Planlæg dit besøg i Kongens Have i København – Danmarks ældste kongelige have. Gratis adgang, åbningstider (6:00–22:00), transport, tips til Rosenborg Slot, picnicpladser & fotos."
+    "description": "Planlæg dit besøg i Kongens Have i København – Danmarks ældste kongelige have. Gratis adgang, åbningstider, transport, tips til Rosenborg Slot, picnicpladser & fotos."
   },
   "header": {
     "home": "Forside",
@@ -17,7 +17,7 @@
     "subtitle": "Københavns ældste kongelige have & H.C. Andersens eventyrverden",
     "rating": "4,6(13.430)",
     "reviewCount": "13.430 anmeldelser",
-    "hours": "6:00–22:00",
+    "hours": "Åbningstider efter sæson",
     "openMaps": "Se placering"
   },
   "intro": {
@@ -84,15 +84,16 @@
   },
   "hours": {
     "title": "Åbningstider",
-    "summer": "Sommer (1. apr – 30. sep)",
-    "summerTime": "6:00–22:00",
-    "winter": "Vinter (1. okt – 31. mar)",
-    "winterTime": "7:00–20:00",
-    "christmas": "Jul (24.–25. dec)",
-    "christmasTime": "10:00–18:00",
+    "summer": "Maj–august",
+    "summerTime": "07:00–22:00",
+    "winter": "November–februar",
+    "winterTime": "07:00–17:00",
+    "shoulder": "Marts, april, september og oktober",
+    "shoulderTime": "Mar/okt kl. 07.00–19.00* · apr/sep kl. 07.00–21.00",
     "rosenborg": "Rosenborg Slot",
     "rosenborgTime": "10:00–17:00 (lukket mandag, åbent mandag juni–aug)",
-    "tip": "Besøg før kl. 9 eller efter kl. 16 for blødt lys og færre mennesker"
+    "tip": "*Tiderne i marts og oktober ændres ved skift til sommer- og vintertid. Tjek de officielle åbningstider før dit besøg.",
+    "source": "Havens officielle åbningstider"
   },
   "tickets": {
     "title": "Billetpriser",

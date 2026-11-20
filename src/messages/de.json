@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Der Königsgarten (Kongens Have) Kopenhagen – Kostenloser königlicher Garten, Öffnungszeiten & Besucherführer",
-    "description": "Planen Sie Ihren Besuch im Königsgarten (Kongens Have) in Kopenhagen – Dänemarks ältester königlicher Garten. Kostenloser Eintritt, Öffnungszeiten (6:00–22:00), Anfahrt, Tipps zur Rosenborg Burg, Picknickplätze & Fotos."
+    "description": "Planen Sie Ihren Besuch im Königsgarten (Kongens Have) in Kopenhagen – Dänemarks ältester königlicher Garten. Kostenloser Eintritt, Öffnungszeiten, Anfahrt, Tipps zur Rosenborg Burg, Picknickplätze & Fotos."
   },
   "header": {
     "home": "Start",
@@ -17,7 +17,7 @@
     "subtitle": "Kopenhavns ältester königlicher Garten & Hans-Christian-Andersens Märchenwelt",
     "rating": "4,6(13.430)",
     "reviewCount": "13.430 Bewertungen",
-    "hours": "6:00–22:00",
+    "hours": "Saisonale Öffnungszeiten",
     "openMaps": "Standort ansehen"
   },
   "intro": {
@@ -84,15 +84,16 @@
   },
   "hours": {
     "title": "Öffnungszeiten",
-    "summer": "Sommer (1. Apr – 30. Sep)",
-    "summerTime": "6:00–22:00",
-    "winter": "Winter (1. Okt – 31. März)",
-    "winterTime": "7:00–20:00",
-    "christmas": "Weihnachten (24.–25. Dez)",
-    "christmasTime": "10:00–18:00",
+    "summer": "Mai–August",
+    "summerTime": "07:00–22:00",
+    "winter": "November–Februar",
+    "winterTime": "07:00–17:00",
+    "shoulder": "März, April, September und Oktober",
+    "shoulderTime": "März/Okt. 07:00–19:00* · Apr./Sept. 07:00–21:00",
     "rosenborg": "Rosenborg Burg",
     "rosenborgTime": "10:00–17:00 (montags geschlossen, im Juni–Aug geöffnet)",
-    "tip": "Besuchen Sie vor 9 Uhr oder nach 16 Uhr für weiches Licht und weniger Menschen"
+    "tip": "*Im März und Oktober ändern sich die Öffnungszeiten mit der Zeitumstellung. Prüfen Sie vor Ihrem Besuch die offiziellen Öffnungszeiten.",
+    "source": "Offizielle Öffnungszeiten des Gartens"
   },
   "tickets": {
     "title": "Eintrittspreise",

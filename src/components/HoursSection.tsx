@@ -20,7 +20,7 @@ export default function HoursSection() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
           <TimeCard title={t('summer')} time={t('summerTime')} iconKey="sun" />
           <TimeCard title={t('winter')} time={t('winterTime')} iconKey="snowflake" />
-          <TimeCard title={t('christmas')} time={t('christmasTime')} iconKey="tree" />
+          <TimeCard title={t('shoulder')} time={t('shoulderTime')} iconKey="tree" />
           <TimeCard title={t('rosenborg')} time={t('rosenborgTime')} iconKey="castle" />
         </div>
 
@@ -33,7 +33,9 @@ export default function HoursSection() {
             <line x1="12" y1="16" x2="12" y2="12"/>
             <line x1="12" y1="8" x2="12.01" y2="8"/>
           </svg>
-          <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tip')}</p>
+          <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tip')}{' '}
+            <a className="underline" href="https://slks.dk/omraader/slotte-og-ejendomme/slotte-og-anlaeg/rosenborg-slot-og-kongens-have/">{t('source')} ↗</a>
+          </p>
         </div>
       </div>
     </section>
